@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nilesh_k_p" target="blank"><img src="https://img.shields.io/twitter/follow/nilesh_k_p?logo=twitter&style=for-the-badge" alt="nilesh_k_p" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently improving coding skills
 
 - 💬 Ask me about **Development and Deployment 🚀**
 
